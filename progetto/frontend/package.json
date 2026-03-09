@@ -1,0 +1,10 @@
+{
+  "name": "calendars-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "echo \"Dev server non configurato\" && exit 1",
+    "build": "echo \"Nessun build step definito\" && exit 0"
+  }
+}
+
